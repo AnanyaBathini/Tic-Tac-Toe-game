@@ -35,6 +35,7 @@ public class GamePnael extends JPanel implements ActionListener {
 	int selY = 0;
 
 	// COLORS
+	
 	Color turtle = new Color(00000000);
 	Color orange = new Color(0xfdcb9e);
 	Color offwhite = new Color(0xf7f7f7);
